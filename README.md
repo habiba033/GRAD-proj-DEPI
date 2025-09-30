@@ -12,10 +12,6 @@ This project focuses on developing a **Data Science & Machine Learning** solutio
 - Salma Amr (Data Analyst) → EDA, visualization, statistical insights.  
 - Hagar Gamal  (MLOps Engineer) → Deployment, monitoring, API development. 
 
-- 
-- **Data Analyst**
-- **ML Engineer** → Model development, evaluation, tuning, explainability.  
-- **MLOps En
 ---
 
 ##  Project Overview
