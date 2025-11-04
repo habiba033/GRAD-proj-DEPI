@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-11-03 01:37:24",
+  "rows": 918,
+  "cols": 22,
+  "kept_features_note": "Clinical signals and demographics retained; Data Source excluded from modeling to avoid leakage.",
+  "missing_strategy": {
+    "categorical_high_missing": "Added 'Unknown' level",
+    "major_vessels": "Categorical buckets 0/1/2/3 + 'Unknown'",
+    "numeric": "Median fill + Missing flag",
+    "binary_flags": "Left NaN + Missing flag; no forced zeros"
+  }
+}
